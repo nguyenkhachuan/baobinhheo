@@ -1,2 +1,2 @@
 # baobinhheo
-Kiem tien lay vo
+Hoc tap nao
